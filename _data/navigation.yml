@@ -1,0 +1,9 @@
+# main links links
+main:
+  - title: "Work"
+    url: /portfolio/
+  - title: "Contact"
+    url: /contact/
+
+  #- title: "Blog"
+  #  url: /
