@@ -46,9 +46,18 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  word-wrap: break-word;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .masthead__menu-item {
+    &--lg {
+      display: none;
+    }
   }
 }
