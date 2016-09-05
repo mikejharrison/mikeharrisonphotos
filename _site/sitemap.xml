@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/contact/</loc>
+<loc>http://mikeharrisonphoto.com/contact/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>http://mikeharrisonphoto.com/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/</loc>
+<loc>http://mikeharrisonphoto.com/portfolio/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/tdsig/</loc>
+<loc>http://mikeharrisonphoto.com/portfolio/tdsig/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/ska/</loc>
+<loc>http://mikeharrisonphoto.com/portfolio/ska/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/sumofus/</loc>
+<loc>http://mikeharrisonphoto.com/portfolio/sumofus/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portfolio/lexically/</loc>
+<loc>http://mikeharrisonphoto.com/portfolio/lexically/</loc>
 </url>
 </urlset>
